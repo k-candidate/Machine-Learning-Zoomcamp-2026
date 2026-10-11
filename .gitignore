@@ -1,2 +1,10 @@
+# Jupyter Notebook temporary files
 .ipynb_checkpoints/
+.virtual_documents/
 
+# Virtual environments
+.venv/
+
+# Python execution caches
+__pycache__/
+*.pyc
